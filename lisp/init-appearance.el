@@ -3,7 +3,7 @@
 ;;; Code:
 
 ;; Default font
-(set-frame-font "Input Mono Compressed 11" nil t)
+;;(set-frame-font "Input Mono Compressed 11" nil t)
 
 ;; Base theme
 (if (display-graphic-p)
